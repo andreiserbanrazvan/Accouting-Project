@@ -10,3 +10,34 @@ debt or loan from other company or Bank.
 4 After income and expense of money per day the remaining amount is Profit Of Company. 
 
 
+Business logic :
+
+Purchasing From vendor or dealer Consist of form:
+  1.Purchase form
+  2.Deposit form to vendor
+  3.Purchase (Bill,Date wise,product wise,Vendor wise Report)
+  4.Stock
+  
+Selling to Customer Consist Of Form:
+  1.Sale Form
+  2.Deposit Form Of Customer
+  3.Sale (Bill , Date wise, product wise, Vendor wise Report)
+  
+Income Form(Bill wise,Date wise, Particular wise Report)
+Expense Form(Bill wise,Date wise, Particular wise Report)
+Stock Form(Date wise,Product wise Report)
+
+
+Software Logic
+
+
+Login Form
+Main Form
+Backup and Recover Database Form
+Product Entry Form
+Person Entry Form
+User Creating Form
+
+
+
+Forms->Reports->Tables
